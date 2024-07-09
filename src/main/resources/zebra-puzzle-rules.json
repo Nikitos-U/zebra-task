@@ -1,0 +1,191 @@
+{
+  "domainsNumber": 5,
+  "attributes": [
+    {
+      "type": "drinks",
+      "name": "water"
+    },
+    {
+      "type": "pets",
+      "name": "zebra"
+    }
+  ],
+  "constraints": [
+    {
+      "attributes": [
+        {
+          "type": "nationalities",
+          "name": "Englishman"
+        },
+        {
+          "type": "colors",
+          "name": "red"
+        }
+      ],
+      "operator": "EQUALITY"
+    },
+    {
+      "attributes": [
+        {
+          "type": "nationalities",
+          "name": "Spaniard"
+        },
+        {
+          "type": "pets",
+          "name": "dog"
+        }
+      ],
+      "operator": "EQUALITY"
+    },
+    {
+      "attributes": [
+        {
+          "type": "drinks",
+          "name": "coffee"
+        },
+        {
+          "type": "colors",
+          "name": "green"
+        }
+      ],
+      "operator": "EQUALITY"
+    },
+    {
+      "attributes": [
+        {
+          "type": "colors",
+          "name": "ivory"
+        },
+        {
+          "type": "colors",
+          "name": "green"
+        }
+      ],
+      "operator": "ORDER"
+    },
+    {
+      "attributes": [
+        {
+          "type": "cigarettes",
+          "name": "Old Gold"
+        },
+        {
+          "type": "pets",
+          "name": "snails"
+        }
+      ],
+      "operator": "EQUALITY"
+    },
+    {
+      "attributes": [
+        {
+          "type": "cigarettes",
+          "name": "Kools"
+        },
+        {
+          "type": "colors",
+          "name": "yellow"
+        }
+      ],
+      "operator": "EQUALITY"
+    },
+    {
+      "attributes": [
+        {
+          "type": "drinks",
+          "name": "milk"
+        }
+      ],
+      "position": 3,
+      "operator": "POSITION"
+    },
+    {
+      "attributes": [
+        {
+          "type": "nationalities",
+          "name": "Norwegian"
+        }
+      ],
+      "position": 1,
+      "operator": "POSITION"
+    },
+    {
+      "attributes": [
+        {
+          "type": "cigarettes",
+          "name": "Chesterfields"
+        },
+        {
+          "type": "pets",
+          "name": "fox"
+        }
+      ],
+      "operator": "NEIGHBOUR"
+    },
+    {
+      "attributes": [
+        {
+          "type": "cigarettes",
+          "name": "Kools"
+        },
+        {
+          "type": "pets",
+          "name": "horse"
+        }
+      ],
+      "operator": "NEIGHBOUR"
+    },
+    {
+      "attributes": [
+        {
+          "type": "cigarettes",
+          "name": "Lucky Strike"
+        },
+        {
+          "type": "drinks",
+          "name": "orange juice"
+        }
+      ],
+      "operator": "EQUALITY"
+    },
+    {
+      "attributes": [
+        {
+          "type": "nationalities",
+          "name": "Japanese"
+        },
+        {
+          "type": "cigarettes",
+          "name": "Parliaments"
+        }
+      ],
+      "operator": "EQUALITY"
+    },
+    {
+      "attributes": [
+        {
+          "type": "nationalities",
+          "name": "Norwegian"
+        },
+        {
+          "type": "colors",
+          "name": "blue"
+        }
+      ],
+      "operator": "NEIGHBOUR"
+    },
+    {
+      "attributes": [
+        {
+          "type": "nationalities",
+          "name": "Ukrainian"
+        },
+        {
+          "type": "drinks",
+          "name": "tea"
+        }
+      ],
+      "operator": "EQUALITY"
+    }
+  ]
+}

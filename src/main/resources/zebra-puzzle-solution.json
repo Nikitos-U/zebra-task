@@ -1,0 +1,122 @@
+[
+  {
+    "attributesSet": [
+      {
+        "type": "cigarettes",
+        "name": "Kools"
+      },
+      {
+        "type": "pets",
+        "name": "fox"
+      },
+      {
+        "type": "colors",
+        "name": "yellow"
+      },
+      {
+        "type": "nationalities",
+        "name": "Norwegian"
+      },
+      {
+        "type": "drinks",
+        "name": "water"
+      }
+    ]
+  },
+  {
+    "attributesSet": [
+      {
+        "type": "cigarettes",
+        "name": "Chesterfields"
+      },
+      {
+        "type": "pets",
+        "name": "horse"
+      },
+      {
+        "type": "colors",
+        "name": "blue"
+      },
+      {
+        "type": "nationalities",
+        "name": "Ukrainian"
+      },
+      {
+        "type": "drinks",
+        "name": "tea"
+      }
+    ]
+  },
+  {
+    "attributesSet": [
+      {
+        "type": "cigarettes",
+        "name": "Old Gold"
+      },
+      {
+        "type": "pets",
+        "name": "snails"
+      },
+      {
+        "type": "colors",
+        "name": "red"
+      },
+      {
+        "type": "nationalities",
+        "name": "Englishman"
+      },
+      {
+        "type": "drinks",
+        "name": "milk"
+      }
+    ]
+  },
+  {
+    "attributesSet": [
+      {
+        "type": "cigarettes",
+        "name": "Parliaments"
+      },
+      {
+        "type": "pets",
+        "name": "zebra"
+      },
+      {
+        "type": "colors",
+        "name": "green"
+      },
+      {
+        "type": "nationalities",
+        "name": "Japanese"
+      },
+      {
+        "type": "drinks",
+        "name": "coffee"
+      }
+    ]
+  },
+  {
+    "attributesSet": [
+      {
+        "type": "cigarettes",
+        "name": "Lucky Strike"
+      },
+      {
+        "type": "pets",
+        "name": "dog"
+      },
+      {
+        "type": "colors",
+        "name": "ivory"
+      },
+      {
+        "type": "nationalities",
+        "name": "Spaniard"
+      },
+      {
+        "type": "drinks",
+        "name": "orange juice"
+      }
+    ]
+  }
+]
